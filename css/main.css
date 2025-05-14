@@ -247,7 +247,7 @@ body {
 .carousel__center-img{
     width: 1130px;
     height: 612px;
-    background-image: url("/images/carousel\ center\ img.png");
+    background-image: url("../images/carousel-center-img.png");
     background-size: cover;
     background-position: 20% 20%;
     background-repeat: no-repeat;
